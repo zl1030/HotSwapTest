@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hotswapapi/hotswap-api.iml" filepath="$PROJECT_DIR$/hotswapapi/hotswap-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotswapapplication/hotswap-application.iml" filepath="$PROJECT_DIR$/hotswapapplication/hotswap-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotswapclassloader/hotswap-classloader.iml" filepath="$PROJECT_DIR$/hotswapclassloader/hotswap-classloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotswapimpl/hotswap-impl.iml" filepath="$PROJECT_DIR$/hotswapimpl/hotswap-impl.iml" />
+    </modules>
+  </component>
+</project>

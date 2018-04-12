@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hotswap-api" />
+        <module name="hotswap-application" />
+        <module name="hotswap-classloader" />
+        <module name="hotswap-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hotswap-api" target="1.5" />
+      <module name="hotswap-application" target="1.5" />
+      <module name="hotswap-classloader" target="1.5" />
+      <module name="hotswap-impl" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
